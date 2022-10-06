@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\bin\Debug\net6.0\L8ClassAndObj.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\bin\Debug\net6.0\L8ClassAndObj.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\bin\Debug\net6.0\L8ClassAndObj.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\bin\Debug\net6.0\L8ClassAndObj.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\bin\Debug\net6.0\L8ClassAndObj.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\L8ClassAndObj.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\L8ClassAndObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\L8ClassAndObj.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\L8ClassAndObj.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\L8ClassAndObj.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\L8ClassAndObj.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\refint\L8ClassAndObj.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\L8ClassAndObj.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\L8ClassAndObj.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L8ClassAndObj\obj\Debug\net6.0\ref\L8ClassAndObj.dll
